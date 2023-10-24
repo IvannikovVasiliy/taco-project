@@ -1,0 +1,4 @@
+com\neoflex\taco\auth\AuthServerApp.class
+com\neoflex\taco\auth\config\AuthServerConfig.class
+com\neoflex\taco\auth\repository\RegisteredClientRepository.class
+com\neoflex\taco\auth\config\SecurityConfig.class

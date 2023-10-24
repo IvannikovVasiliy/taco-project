@@ -1,0 +1,4 @@
+com\neoflex\taco\auth\config\ClientConfig.class
+com\neoflex\taco\auth\controller\TestController.class
+com\neoflex\taco\auth\ClientApp.class
+com\neoflex\taco\auth\config\SecurityConfig.class
